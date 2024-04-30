@@ -1,0 +1,8 @@
+Brasi:Santos:4.7
+Colombia:Supremo:5.3
+Ethiopia:Yargacheffe:5.9
+Guatemala:Antigua:5.8
+Indonesia:Mandheling:4.9Jamaica:Blue Mountain:7.5
+Kenya:AA:5.7
+Tanzania:AA Plus:6.0
+Vietnam:Ca Phe Chon:8.0
